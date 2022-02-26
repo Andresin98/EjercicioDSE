@@ -1,7 +1,12 @@
 #include <stdio.h>
-int main()
-{
-    printf("Hello World");
 
-    return 0;
+#include "Funcion_test.h"
+
+
+void main()
+{
+    while(1){
+        FuncionContar();
+    }
+
 }
